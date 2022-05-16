@@ -494,10 +494,10 @@ O))      O)     O))       O)) O))    O))O)) O))  O))O))
                                                                
 
  [*]=============================================
-    Author             :  \033[1;93mBMX MAHIN AHMED
-    Facebook.          : https://www.facebook.com/mh.mahin.9440234
-    Team               : Black Mafia 👿👈
-    ❤ U Hetars        : FB KING
+    Author           :  \033[1;93mBMX MAHIN AHMED
+    \033[1;92mFacebook.        : https://www.facebook.com/FB.King.Mahin
+    \033[1;94mTeam             : Black Mafia 👿👈
+    \033[1;93m❤ U Hetars      : FB KING
  [*]=============================================
    \033[1;31m  Use (Flight) Airplane Mod For Speed Up \033[1;37m
  [*]============================================="""
