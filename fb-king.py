@@ -33,11 +33,11 @@ def readline___Public_Xml():
 	logo()
 	print (' [*]=============================================')
 	print(" \033[1;92m[1] Start Cracking  ")
-	print(" \033[1;97m[2] Create Supper File [ Unlamented ]")
-	print(" [3] Feedback")
+	print(" \033[1;94m[2] Create Supper File [ Unlamented ]")
+	print(" \033[1;91m[3] Feedback")
 	print(" [4] YouTube ")
 	print (" [5] Login Other Token")
-	print (" [0] Exit Programing")
+	print (" \033[1;93m[0] Exit Programing")
 	print (' [*]=============================================')
 	key = input(" [*] input : ")
 	print (' [*]=============================================')
@@ -497,7 +497,7 @@ O))      O)     O))       O)) O))    O))O)) O))  O))O))
     Author           :  \033[1;93mBMX MAHIN AHMED
     \033[1;92mFacebook.        : https://www.facebook.com/FB.King.Mahin
     \033[1;94mTeam             : Black Mafia 👿👈
-    \033[1;93m❤ U Hetars      : FB KING
+    \033[1;93m❤ U Hetars       : FB KING
  [*]=============================================
    \033[1;31m  Use (Flight) Airplane Mod For Speed Up \033[1;37m
  [*]============================================="""
