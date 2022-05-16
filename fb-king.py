@@ -490,7 +490,7 @@ O))      O)     O))       O)) O))    O))O)) O))  O))O))
 \033[1;93mO))))))  O))) O)          O) O)      O))O))  O)) O))O))        
 \033[1;92mO))      O)     O))       O))  O))   O))O))   O) O))O))   O))))
 \033[1;97mO))      O)      O)       O))   O))  O))O))    O) )) O))    O) 
-\033[1;91mO))      O)))) O))        O))     O))O))O))      O))  O)))))"""
+\033[1;91mO))      O)))) O))        O))     O))O))O))      O))  O)))))
                                                                
 
  [*]=============================================
@@ -500,7 +500,7 @@ O))      O)     O))       O)) O))    O))O)) O))  O))O))
     ❤ U Hetars   : FB KING
  [*]=============================================
    \033[1;31m  Use (Flight) Airplane Mod For Speed Up \033[1;37m
- [*]============================================="""
+ [*]=============================================
 ct = datetime.now()
 n = ct.month
 monthsx = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
