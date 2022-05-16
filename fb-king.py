@@ -482,7 +482,7 @@ imtiazak_ua_vivo    = 'Mozilla/5.0 (Linux; Android 11; vivo 1918) AppleWebKit/53
 imtiazak_ua_oppo    = 'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 imtiazak_ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
 imtiazak_ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
-banner=("""\033[94m
+banner="""\033[94m
 
 O))))))))O)) O))          O))   O))  O))O)))     O))   O))))   
 O))      O)    O))        O))  O))   O))O) O))   O)) O)    O)) 
@@ -490,7 +490,7 @@ O))      O)     O))       O)) O))    O))O)) O))  O))O))
 \033[1;93mO))))))  O))) O)          O) O)      O))O))  O)) O))O))        
 \033[1;92mO))      O)     O))       O))  O))   O))O))   O) O))O))   O))))
 \033[1;97mO))      O)      O)       O))   O))  O))O))    O) )) O))    O) 
-\033[1;91mO))      O)))) O))        O))     O))O))O))      O))  O))))) """)
+\033[1;91mO))      O)))) O))        O))     O))O))O))      O))  O)))))
                                                                
 
  [*]=============================================
@@ -500,7 +500,7 @@ O))      O)     O))       O)) O))    O))O)) O))  O))O))
     ❤ U Hetars        : FB KING
  [*]=============================================
    \033[1;31m  Use (Flight) Airplane Mod For Speed Up \033[1;37m
- [*]=============================================
+ [*]============================================="""
 ct = datetime.now()
 n = ct.month
 monthsx = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
